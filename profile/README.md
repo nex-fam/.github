@@ -8,4 +8,5 @@ Monorepo:
 * [nex](https://github.com/nex-fam/nex)
 
 NPM:
+* [@nex-fam](https://www.npmjs.com/settings/nex-fam)
 * [@nex-fam/lib](https://www.npmjs.com/package/@nex-fam/lib)
